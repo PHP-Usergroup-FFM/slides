@@ -1,4 +1,1 @@
-slides
-======
-
-Slides aus den UserGroup-Meetings
+# Slides aus den UserGroup-Meetings
