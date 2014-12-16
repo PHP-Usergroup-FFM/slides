@@ -3,6 +3,8 @@
 ## 6. Treffen der UG in 2014 am 20.11.2014
 
  * [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/20141120/index.html)
+ * [ContinuousIntegration & Continuous Delivery with OpenSource Tools](http://de.slideshare.net/mimiknoll/continuous-integration-with-open-source-tools-phpugffm-20141120)
+ * [A complex ORM... faster than SQL?](http://ocramius.github.io/brnophp-2014-slides/)
 
 ## 5. Treffen der UG in 2014 am 18.9.2014
 
