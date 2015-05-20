@@ -1,5 +1,11 @@
 # Slides aus den UserGroup-Meetings
 
+## 3. Treffen der UG in 2015 am 21.05.2015
+
+ * [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/20150521/index.html)
+ * [Einführung in Laravel]()
+ * [LDAP - what was that again?]()
+
 ## 2. Treffen der UG in 2015 am 19.03.2015
 
  * [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/20150319/index.html)
