@@ -3,6 +3,7 @@
 ## 6. Treffen der UG in 2015 am 13.10.2015
 
  * [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/20151013/index.html)
+ * [Hello PSR-7](https://beau.io/talks/2015/10/13/hello-psr-7-phpugffm/)
 
 ## 5. Treffen der UG in 2015 am 17.09.2015
 
