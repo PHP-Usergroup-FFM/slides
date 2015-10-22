@@ -4,10 +4,14 @@
 
  * [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/20151013/index.html)
  * [Hello PSR-7](https://beau.io/talks/2015/10/13/hello-psr-7-phpugffm/)
+ * [What I learned from Beerplorer]()
 
 ## 5. Treffen der UG in 2015 am 17.09.2015
 
  * [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/20150917/index.html)
+ * [Powerful & Flexible SQL Generation — without the Hassle]()
+ * [Usability Testessen]()
+ * [MistakeDrivenDevelopment](https://github.com/dmanners/Mistake_Driven_Development/raw/master/MDD-Final.pdf)
 
 ## 3. Treffen der UG in 2015 am 21.05.2015
 
