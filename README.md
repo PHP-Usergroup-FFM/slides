@@ -4,7 +4,7 @@
 
  * [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/20151013/index.html)
  * [Hello PSR-7](https://beau.io/talks/2015/10/13/hello-psr-7-phpugffm/)
- * [What I learned from Beerplorer]()
+ * [Beerplorer.com](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/20151013/slides/Beerplorer.pdf)
 
 ## 5. Treffen der UG in 2015 am 17.09.2015
 
