@@ -3,6 +3,9 @@
 ## 2. Treffen der UG in 2016 am 24.03.2016
 
  * [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/2016/20160324/index.html)
+ * [Lightning-Talk - CLI-Tools](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/2016/20160324/lightning_talk_phpugffm_II_2016.pdf)
+ * [Asynchronous event processing](...)
+ * [Jenkins for PHP projects](...)
 
 ## 1. Treffen der UG in 2016 am 21.01.2016
 
