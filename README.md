@@ -1,5 +1,11 @@
 # Slides aus den UserGroup-Meetings
 
+## 4. Treffen der UG in 2016 am 3.10.2016
+
+* [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/2016/20161003/index.html)
+* [Building Powerful and Scalable Micro Applications with Zend Expressive](..)
+* [Refactoring Legacy Code](http://www.slideshare.net/adamculp/refactoring-legacy-code)
+
 ## 3. Treffen der UG in 2016 am 19.5.2016
 
 * [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/2016/20160519/index.html)
