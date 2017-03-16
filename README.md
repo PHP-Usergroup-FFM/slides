@@ -1,16 +1,23 @@
 # Slides aus den UserGroup-Meetings
 
+## 2. Treffen der UG in 2017 am 16.03.2016
+
+* [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/2017/20170316/index.html)
+* [Introduction: PHP Extensions]()
+* [Gamify your growth as a developer]()
+
+
 ## 1. Treffen der UG in 2017 am 19.01.2016
 
 * [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/2017/20170119/index.html)
 * [Agiles Team-Setup in Selbstorganisation]()
-* [Icehawk - PHP7 CQRS Framework ]()
+* [Icehawk - PHP7 CQRS Framework](https://speakerdeck.com/hollodotme/icehawk-framework-at-phpugffm)
 
 
 ## 5. Treffen der UG in 2016 am 17.11.2016
 
 * [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/2016/20161117/index.html)
-* [Disco - A fresh look on DI ](https://talks.bitexpert.de/phpugffm16-disco/)
+* [Disco - A fresh look on DI](https://talks.bitexpert.de/phpugffm16-disco/)
 
 
 ## 4. Treffen der UG in 2016 am 3.10.2016
