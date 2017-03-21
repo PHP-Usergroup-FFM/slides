@@ -3,8 +3,8 @@
 ## 2. Treffen der UG in 2017 am 16.03.2016
 
 * [Termine und Sponsoren](http://cdn.rawgit.com/PHP-Usergroup-FFM/slides/master/2017/20170316/index.html)
-* [Introduction: PHP Extensions]()
-* [Gamify your growth as a developer]()
+* [Introduction: PHP Extensions](https://speakerdeck.com/thomasweinert/introduction-php-extensions)
+* [Gamify your growth as a developer](http://rawgit.com/heiglandreas/slidedeck/master/GamifyYourGrowthAsDeveloper/20170316-phpugffm/index_online.html#/)
 
 
 ## 1. Treffen der UG in 2017 am 19.01.2016
