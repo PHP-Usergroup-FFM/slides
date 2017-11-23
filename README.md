@@ -2,6 +2,12 @@
 
 ## 2017
 
+### 5. Treffen der UG in 2017 am 23.11.2017
+
+* [Termine und Sponsoren](http://php-usergroup-ffm.github.io/slides/2017/20171123/index.html)
+* [Agile Aufwandsschätzung]()
+* [There’s a slight smell of wet dog in your code]()
+
 ### 4. Treffen der UG in 2017 am 21.09.2017
 
 * [Termine und Sponsoren](http://php-usergroup-ffm.github.io/slides/2017/20170921/index.html)
