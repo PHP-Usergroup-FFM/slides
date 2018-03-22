@@ -10,7 +10,8 @@
 
 ### 1. Treffen der UG in 2018 am  18.01.2018
 
-Sadly there are currently no slides available…
+* [Confessions of a Code Poet](https://talks.bitexpert.de/phpugffm18-confessions/)
+* [Finding Developers]()
 
 ## 2017
 
