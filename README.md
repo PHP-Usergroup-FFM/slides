@@ -17,8 +17,8 @@ Sadly there are currently no slides available…
 ### 5. Treffen der UG in 2017 am 23.11.2017
 
 * [Termine und Sponsoren](http://php-usergroup-ffm.github.io/slides/2017/20171123/index.html)
-* [Agile Aufwandsschätzung]()
-* [There’s a slight smell of wet dog in your code]()
+* [Agile Aufwandsschätzung](https://github.com/terafitz/Presentations/blob/master/Cost_Estim_WMFRA_v0-1_170109.pptx)
+* [There’s a slight smell of wet dog in your code](https://sebastian-feldmann.info/talks/2017/20171011-slight-smell-of-wet-dog.pdf)
 
 ### 4. Treffen der UG in 2017 am 21.09.2017
 
