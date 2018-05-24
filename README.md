@@ -2,6 +2,12 @@
 
 ## 2018
 
+### 3. Treffen der UG in 2018 am 24.05.2018
+
+* [Termine und Sponsoren](https://php-usergroup-ffm.github.io/slides/2018/20180524/index.html)
+* [The First Contact](https://heiglandreas.github.io/slidedeck/FirstContact/20180524-phpugffm/index_online.html)
+* [GitLab]()
+
 ### 2. Treffen der UG in 2018 am 22.03.2018
 
 * [Termine und Sponsoren](http://php-usergroup-ffm.github.io/slides/2018/20180322/index.html)
