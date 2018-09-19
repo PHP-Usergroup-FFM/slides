@@ -2,6 +2,12 @@
 
 ## 2018
 
+### 4. Treffen der UG in 2018 am 20.09.2018
+
+* [Termine und Sponsoren](ttps://php-usergroup-ffm.github.io/slides/2018/20180922/index.html)
+* Distributed Domain Destruction - Adventures in building distributed systems
+* How (not) to random
+
 ### 3. Treffen der UG in 2018 am 24.05.2018
 
 * [Termine und Sponsoren](https://php-usergroup-ffm.github.io/slides/2018/20180524/index.html)
