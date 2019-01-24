@@ -1,12 +1,20 @@
 # Slides aus den UserGroup-Meetings
 
+## 2019
+
+### 1. Treffen der UG in 2019 am 24.01.2019
+
+* [Termine und Sponsoren](https://php-usergroup-ffm.github.io/slides/2019/20190124/index.html)
+* What's new in PHP
+* Haskell
+
 ## 2018
 
 ### 5. Treffen der UG in 2018 am 22.11.2018
 
 * [Termine und Sponsoren](https://php-usergroup-ffm.github.io/slides/2018/20181122/index.html)
 * Monitoring
-* Feedback
+* Git best practices
 
 ### 4. Treffen der UG in 2018 am 20.09.2018
 
