@@ -1,6 +1,20 @@
 # Slides aus den UserGroup-Meetings
 
+## 2020
+
+### 1. Treffen der UG in 2020 am 27.01.2020 bei Lillydoo
+
+* [Termine und Sponsoren](https://php-usergroup-ffm.github.io/slides/2020/20200127/index.html)
+* [Be nice, help the person who hacks your servers to get your data]()
+* [GraphQL and Laravel]()
+
 ## 2019
+
+### 5. Treffen der UG in 2019 am 28.11.2019 bei DE-CIX
+
+* [Termine und Sponsoren](https://php-usergroup-ffm.github.io/slides/2019/20191128/index.html)
+* [Caching the uncacheable](https://speakerdeck.com/thijsferyn/caching-the-uncacheable-with-varnish-php-ug-ffm-19)
+* [Will AI kill the developers job?]()
 
 ### 4. Treffen der UG in 2019 am 19.09.2019
 
